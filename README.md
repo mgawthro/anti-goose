@@ -1,6 +1,6 @@
 # anti-goose
 
-Fully Autonomous Anti-Goose laser deterent system
+Fully Autonomous Anti-Goose laser deterent system (Canadian-geese).
 Main code in Video.py
 
 Specs:
@@ -10,4 +10,7 @@ Specs:
 -raspberry pi4 using CPU
 
 
-Do not train model on raspberry pi, not enough power
+Do not train model on raspberry pi, not enough power.
+
+Currently working on the algorithm in chrge of firing laser and coming up with a unique pattern.
+Also working to use raspbeery pi GPU to become more effecient.
