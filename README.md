@@ -12,5 +12,5 @@ Specs:
 
 Do not train model on raspberry pi, not enough power.
 
-Currently working on the algorithm in chrge of firing laser and coming up with a unique pattern.
+Currently working on the algorithm in charge of firing laser and coming up with a unique pattern.
 Also working to use raspbeery pi GPU to become more effecient.
