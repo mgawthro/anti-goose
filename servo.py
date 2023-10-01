@@ -1,4 +1,6 @@
-
+'''
+FOR SERVO TESTING
+'''
 import RPi.GPIO as GPIO
 import time
 
@@ -46,7 +48,6 @@ def zigzag(full, far):
 
     i = 0
     while(i < 6):
-        GPIO.output(22, 1)
         if(i%2 == 0):
             pan.ChangeDutyCycle(3.5)
         else:

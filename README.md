@@ -2,7 +2,7 @@
 
 Fully Autonomous Anti-Goose laser deterent system (Canadian-geese).
 
-Main code in Video.py
+Main code in main_project/main.py
 
 Specs:
 
